@@ -7,13 +7,15 @@ sites:
   - name: Blog
     url: https://boerman.dev
   - name: Day-Ahead Reports
-    url: https://reports.coreflowbased.eu/login/
+    url: https://reports.coreflowbased.eu/members/
   - name: Flowbased domain calculators
     url: https://coreflowbased.eu/calculators/
   - name: EU Flow viewer
     url: https://flows.boerman.dev/
   - name: CORE Status Page
     url: https://status.coreflowbased.eu
+  - name: Amunanalytics Kratos
+    url: https://kratos.coreflowbased.eu/health/alive
     
 assignees:
   - fboerman

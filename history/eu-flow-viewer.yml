@@ -1,7 +1,7 @@
 url: https://flows.boerman.dev/
-status: up
-code: 200
-responseTime: 814
-lastUpdated: 2024-09-12T23:18:13.695Z
+status: down
+code: 500
+responseTime: 425
+lastUpdated: 2024-09-13T14:37:01.245Z
 startTime: 2024-09-05T19:31:18.300Z
 generator: Upptime <https://github.com/upptime/upptime>

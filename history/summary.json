@@ -4,10 +4,10 @@
     "url": "https://data.boerman.dev",
     "icon": "https://icons.duckduckgo.com/ip3/data.boerman.dev.ico",
     "slug": "grafana-dashboards",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 839,
@@ -15,17 +15,19 @@
     "timeWeek": 771,
     "timeMonth": 856,
     "timeYear": 839,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-09": 2
+    }
   },
   {
     "name": "Blog",
     "url": "https://boerman.dev",
     "icon": "https://icons.duckduckgo.com/ip3/boerman.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
@@ -33,17 +35,19 @@
     "timeWeek": 662,
     "timeMonth": 700,
     "timeYear": 691,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-09": 1
+    }
   },
   {
     "name": "Day-Ahead Reports",
     "url": "https://reports.coreflowbased.eu/members/",
     "icon": "https://icons.duckduckgo.com/ip3/reports.coreflowbased.eu.ico",
     "slug": "day-ahead-reports",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 584,
@@ -52,6 +56,7 @@
     "timeMonth": 590,
     "timeYear": 584,
     "dailyMinutesDown": {
+      "2025-01-09": 1,
       "2024-09-13": 7,
       "2024-09-05": 13
     }
@@ -61,18 +66,19 @@
     "url": "https://coreflowbased.eu/calculators/",
     "icon": "https://icons.duckduckgo.com/ip3/coreflowbased.eu.ico",
     "slug": "flowbased-domain-calculators",
-    "status": "up",
-    "uptime": "83.65%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "83.67%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.65%",
+    "uptimeYear": "83.67%",
     "time": 747,
     "timeDay": 522,
     "timeWeek": 605,
     "timeMonth": 612,
     "timeYear": 747,
     "dailyMinutesDown": {
+      "2025-01-09": 0,
       "2024-10-15": 18,
       "2024-10-07": 1183,
       "2024-10-06": 1440,

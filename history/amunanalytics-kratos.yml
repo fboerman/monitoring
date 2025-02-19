@@ -1,7 +1,7 @@
 url: https://kratos.coreflowbased.eu/health/alive
-status: up
-code: 200
-responseTime: 526
-lastUpdated: 2025-02-19T21:25:08.496Z
+status: down
+code: 404
+responseTime: 674
+lastUpdated: 2025-02-19T22:11:25.790Z
 startTime: 2024-09-05T19:44:42.823Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://reports.coreflowbased.eu/members/
-status: up
-code: 200
-responseTime: 644
-lastUpdated: 2025-03-16T20:58:47.517Z
+status: down
+code: 502
+responseTime: 4624
+lastUpdated: 2025-03-16T21:27:16.770Z
 startTime: 2024-09-05T19:31:11.587Z
 generator: Upptime <https://github.com/upptime/upptime>

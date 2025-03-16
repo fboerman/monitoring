@@ -1,7 +1,7 @@
 url: https://status.coreflowbased.eu
-status: up
-code: 200
-responseTime: 688
-lastUpdated: 2025-03-15T23:15:45.754Z
+status: down
+code: 500
+responseTime: 732
+lastUpdated: 2025-03-16T19:36:27.723Z
 startTime: 2024-09-05T19:31:19.459Z
 generator: Upptime <https://github.com/upptime/upptime>
